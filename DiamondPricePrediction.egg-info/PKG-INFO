@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: DiamondPricePrediction
+Version: 0.0.1
+Author: Mahenoor
+Author-email: merchant0710@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: sklearn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
